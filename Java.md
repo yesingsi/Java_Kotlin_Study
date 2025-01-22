@@ -1,6 +1,3 @@
-단축키 
-psvm or main 
-sout 
 
 public class _03_Variables {
     public static void main(String[] args) {
