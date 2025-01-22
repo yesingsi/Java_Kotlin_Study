@@ -1,3 +1,4 @@
+#1000
 import java.util.Scanner;
 
 public class Main{
@@ -14,7 +15,7 @@ public class Main{
 }
 
 
-
+#2442
 import java.util.Scanner;
 
 public class Main {
@@ -29,7 +30,7 @@ public class Main {
     }
 }
 
-
+#2741
 import java.util.Scanner;
 
 public class Main {
